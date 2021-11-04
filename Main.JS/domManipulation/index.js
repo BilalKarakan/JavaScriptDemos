@@ -1,0 +1,1 @@
+document.getElementById("bio").innerHTML = "Bilal Karakan: 1998"
